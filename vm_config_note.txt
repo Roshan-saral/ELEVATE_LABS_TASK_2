@@ -1,0 +1,3 @@
+OS: Ubuntu 22.04 LTS
+Region: ap-south-1 (ASIA PACIFIC(MUMBAI))
+Instance Type: t3.micro (AWS Free Tier Eligible)
